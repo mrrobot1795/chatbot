@@ -1,2 +1,2 @@
 # chatbot
-Goodspace chatbot 
+Chatgpt based chatbot 
